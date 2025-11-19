@@ -30,7 +30,7 @@ export default function About() {
           <p>
             📧 <a href="mailto:satyamaunta2003@gmail.com" 
                   className="text-blue-400 underline hover:text-blue-300">
-                  satyamaunta2003@gmail.com
+                  Mail
                 </a>
           </p>
 
