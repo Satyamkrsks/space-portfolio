@@ -16,6 +16,7 @@ export default function About() {
         className="z-10 max-w-2xl text-center"
       >
         <h1 className="text-4xl font-bold mb-3">👨‍🚀 About the Pilot</h1>
+        <a href="https://www.linkedin.com/in/satyam2002k/">LinkedIn</a>
         <p className="text-gray-300">
           I’m Satyam Kumar — a software engineer and space enthusiast crafting
           creative digital experiences across galaxies.
