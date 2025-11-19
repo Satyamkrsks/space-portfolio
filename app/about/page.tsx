@@ -22,26 +22,28 @@ export default function About() {
           across galaxies. I love blending technology, design, and imagination
           to build impactful products.
         </p>
-        
+
         {/* Contact Section */}
-        <div className="space-y-1 text-lg">
-          <p>
-            📎 <a href="https://www.linkedin.com/in/satyam2002k/" 
-                className="text-blue-400 underline hover:text-blue-300"
-                target="_blank">
-                LinkedIn
-              </a>
-          </p>
+        <div className="flex items-center justify-center gap-6 text-lg">
 
-          <p>
-            📧 <a href="mailto:satyamaunta2003@gmail.com" 
-                  className="text-blue-400 underline hover:text-blue-300">
-                  Mail
-                </a>
-          </p>
+        <a
+          href="https://www.linkedin.com/in/satyam2002k/"
+          className="text-blue-400 underline hover:text-blue-300"
+          target="_blank"
+        >
+          📎 LinkedIn
+        </a>
 
-          <p>📱 7634938496</p>
-        </div>
+        <a
+          href="mailto:satyamaunta2003@gmail.com"
+          className="text-blue-400 underline hover:text-blue-300"
+        >
+          📧 Email
+        </a>
+
+        <span>📱 7634938496</span>
+
+      </div>
 
         
       </motion.div>
