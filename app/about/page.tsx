@@ -16,7 +16,13 @@ export default function About() {
         className="z-10 max-w-2xl text-center space-y-3"
       >
         <h1 className="text-4xl font-bold mb-3">👨‍🚀 About the Pilot</h1>
-
+        <p className="text-gray-300 mt-4">
+          I’m Satyam Kumar — a software engineer, UI/UX designer, and
+          space enthusiast crafting creative digital experiences
+          across galaxies. I love blending technology, design, and imagination
+          to build impactful products.
+        </p>
+        
         {/* Contact Section */}
         <div className="space-y-1 text-lg">
           <p>
@@ -37,12 +43,7 @@ export default function About() {
           <p>📱 7634938496</p>
         </div>
 
-        <p className="text-gray-300 mt-4">
-          I’m Satyam Kumar — a software engineer, UI/UX designer, and
-          space enthusiast crafting creative digital experiences
-          across galaxies. I love blending technology, design, and imagination
-          to build impactful products.
-        </p>
+        
       </motion.div>
     </main>
   );
